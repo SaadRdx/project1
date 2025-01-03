@@ -1,0 +1,93 @@
+body{
+        font-family: Arial, sans-serif;
+
+
+
+
+
+
+
+}
+header{
+        background-color: black;
+        padding: 10px ;
+        color: white;
+
+
+
+
+}
+.saad{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        
+
+
+
+
+
+}
+.saad a{
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 8px 16px;
+        border-radius: 5px;
+
+
+
+
+
+
+}
+.saad a:hover{
+            background-color: rgb(92, 80, 80);
+
+
+
+
+
+}
+section{
+        padding: 20px;
+
+}
+.haseeb{
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+
+
+}
+.box{
+    width: 250px;
+    border: 1px solid rgb(248, 240, 240);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 3px 5px;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+
+
+
+
+}
+.box img{
+        width: 100%;
+        height: auto;
+        border-bottom: 2px solid #ddd;
+
+
+
+
+}
+.box p{
+        padding: 10px;
+        font-size: 16px;
+        color: #333;
+
+
+
+}
